@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0054-spiral-matrix](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0493-reverse-pairs](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
@@ -65,4 +66,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
