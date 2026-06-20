@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0493-reverse-pairs](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -82,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
