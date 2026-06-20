@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
@@ -23,11 +24,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0493-reverse-pairs](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Binary Indexed Tree
