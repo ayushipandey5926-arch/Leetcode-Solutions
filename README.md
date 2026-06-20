@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -45,11 +46,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
