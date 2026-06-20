@@ -18,11 +18,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0493-reverse-pairs](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0704-binary-search](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
