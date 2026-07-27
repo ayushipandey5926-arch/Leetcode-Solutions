@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
