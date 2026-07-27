@@ -50,13 +50,17 @@ public:
 
        ListNode* L1 = head;
        ListNode* L2 = secondHalf;
+       bool result = true;
 
        while(L2!=NULL) {
-       if(L1->val != L2->val) return false;
+       if(L1->val != L2->val) {
+       result = false;
+       break;;
+       }
        L1 = L1->next;
        L2 = L2->next;
        }
-       return true;
+       return result;
     }
 
 };
