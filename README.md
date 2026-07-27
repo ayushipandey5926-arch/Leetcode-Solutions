@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -127,12 +129,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
