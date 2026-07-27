@@ -60,6 +60,9 @@ public:
        L1 = L1->next;
        L2 = L2->next;
        }
+
+       slow->next = reverseList(secondHalf);
+       
        return result;
     }
 
