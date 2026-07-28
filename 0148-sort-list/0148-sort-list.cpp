@@ -23,18 +23,8 @@ public:
     } 
 
     ListNode* MergeList(ListNode* L1, ListNode* L2) {
-        ListNode* head = NULL;
-        ListNode* tail = NULL;
-
-        if(L1->val <= L2->val) {
-            head = L1;
-            L1 = L1->next;
-        } else {
-            head = L2;
-            L2 = L2->next;
-        }
-
-        tail = head;
+        ListNode dummy = (0);
+        ListNode* tail = &dummy;
 
         while(L1 && L2) {
             if(L1->val <= L2->val) {
@@ -53,7 +43,7 @@ public:
             tail->next = L2;
         }
 
-        return head; 
+        return dummy.next; 
     }
 
 
