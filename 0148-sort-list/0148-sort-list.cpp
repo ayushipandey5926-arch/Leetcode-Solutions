@@ -37,12 +37,8 @@ public:
             tail = tail->next;
         }
 
-        if(L1) {
-            tail->next = L1;
-        } else {
-            tail->next = L2;
-        }
-
+    
+        tail->next = L1 ? L1 : L2;
         return dummy.next; 
     }
 
