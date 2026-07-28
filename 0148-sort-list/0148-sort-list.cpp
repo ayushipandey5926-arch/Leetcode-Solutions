@@ -39,6 +39,7 @@ public:
 
     
         tail->next = (L1) ? L1 : L2;
+        
         return dummy.next; 
     }
 
