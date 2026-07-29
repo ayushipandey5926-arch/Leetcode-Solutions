@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0493-reverse-pairs](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -108,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
