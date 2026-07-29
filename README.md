@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Prefix Sum
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0061-rotate-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0148-sort-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ayushipandey5926-arch/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
